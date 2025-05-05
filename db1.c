@@ -1,3 +1,7 @@
+/*
+ We'll write a simple read-execute-print loop which would take user input & perform some functions. As this is the first step, we'll only write simple functions to take input from user & exit the program.
+ */
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
